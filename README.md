@@ -51,7 +51,7 @@ pip install -r requirements.txt
 
 6. `Model Saving and Loading`: 
     - `Saving the Model`: After training the Random Forest Regression model, save it to the `models` folder using `pickle`.
-    
+
     - `Loading the Model`: Load the saved model from the `models` folder using `pickle`.
         you can load and use the model using the following code: 
         ```
@@ -66,15 +66,15 @@ pip install -r requirements.txt
 7. `Prediction`: Use the trained model to predict the future value of customers. Save the predictions and model parameters in the models/ directory.
 
 ### Results
-The results of the project, including model performance metrics and visualizations, are documented in the Jupyter Notebook. The best-performing model is saved in the models/ directory and can be used for making future predictions.
+The results of the project, including model performance metrics, are documented in the Jupyter Notebook. The best-performing model is saved in the `models/` directory and can be used for making future predictions.
 
 ### Conclusion
 Predicting customer lifetime value is a valuable tool for businesses to understand and optimize customer relationships. By leveraging machine learning techniques, this project demonstrates how to accurately forecast the future value of customers based on their past behavior and demographics.
 
 ### Future Work
-- Model Optimization: Experiment with advanced techniques such as hyperparameter tuning, ensemble methods, and deep learning models to improve prediction accuracy.
-- Feature Expansion: Incorporate additional features such as customer interactions, social media activity, and external economic factors to enhance the model.
-- Deployment: Develop a web application or API to make the model accessible to business users for real-time predictions.
+- `Model Optimization`: Experiment with advanced techniques such as hyperparameter tuning, ensemble methods, and deep learning models to improve prediction accuracy.
+- `Feature Expansion`: Incorporate additional features such as customer interactions, social media activity, and external economic factors to enhance the model.
+- `Deployment`: Develop a web application or API to make the model accessible to business users for real-time predictions.
 
 ### Contributors
 - Md Zaib Reyaz (me)
