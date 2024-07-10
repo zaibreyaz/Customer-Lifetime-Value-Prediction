@@ -7,7 +7,7 @@ This project aims to predict the future value of a customer to a business over t
 The repository contains the following files and directories:
 
 - Customer_Lifetime_Value_Prediction.ipynb: The Jupyter Notebook containing the code and analysis for the project.
-- data/: Directory containing the dataset(s) used for the project.
+- online-retail-dataset/: Directory containing the dataset(s) used for the project.
 - README.md: This file, providing an overview and instructions for the project.
 - requirements.txt: This file contains all the required libraries to install.
 
