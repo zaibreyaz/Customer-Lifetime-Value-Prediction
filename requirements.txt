@@ -11,3 +11,6 @@ seaborn==0.11.1
 
 # Jupyter Notebook
 notebook==6.4.0
+
+# Pickle (for saving and loading models)
+pickle5==0.0.12
